@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular21-1e130": {
+      "hosting": {
+        "github-login-firebase": [
+          "angular21-1e130"
+        ]
+      }
+    }
+  }
+}
